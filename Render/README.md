@@ -5,7 +5,7 @@ Show the modelling process for each object
 - modelling
 - materials
 
-### Julie's objects : 
+## Julie's objects : 
 ### Sea Shell :
 
     Reference : 
@@ -16,7 +16,19 @@ Show the modelling process for each object
     
     Materials : 
     
+### Rock with reefs : 
+
+    Reference :
+        I didn’t use a reference for this object either.
+
+    Modelling :
+        Rock-> I started with a cube, added extra faces, and then extruded them to create a shape resembling a sea rock. I also used the bevel tool on some edges to make the rock look more natural.
+        Algae-> I started with a cube, added a subdivision modifier, and set the viewport level to 3 to make it look like a sphere. Then, I extruded some faces to create the algae.
+        Reefs-> I started with cylinders of different sizes and placed them together. I created faces on top of each cylinder and extruded them to form the holes of each reef.
+        Anemones-> I started with a circle, scaled its face to shape it like a dune. Then, I added a particle system in hair mode and adjusted the parameters to achieve the final result.
     
-
-
+    Materials : 
+        I used an image texture for the rock, and in Edit Mode, I selected the edges where I wanted the image to be cut, to get a more natural stone look.
+        For the corals and anemones, I added a gradient along with a color ramp, which allowed me to choose the gradient colors.
+        For the algae, I simply added an RGB color.
     
