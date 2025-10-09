@@ -3,5 +3,5 @@ Github for the Computer Graphics course
 
 Contributors : 
 - OLAMPI Terry | to4008 | @Olampit
-- 
+- TESSON Julie | jt4026 | @julie-tssn
 - 
